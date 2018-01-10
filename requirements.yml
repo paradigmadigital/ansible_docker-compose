@@ -1,0 +1,4 @@
+- src: git+https://git.paradigmadigital.com/ansible/python-pip
+  version: v0.1
+- src: git+https://git.paradigmadigital.com/ansible/docker
+  version: v0.1
